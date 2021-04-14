@@ -3,7 +3,7 @@
 ## Dashboard Link
 [Link for Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:6787576539505655808/)
 
-## Uses of the Dashboard to check ...
+## This Dashboard can be useful to check ...
 - E.g. How many people from the millennial generation of United States has committed suicide during the year 2009
     - In the above exmaple, *Generation, Country and Year* can be changed
     - Filters include: Generation, Country, Year and Age Group
